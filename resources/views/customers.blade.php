@@ -128,7 +128,7 @@
 </section>
 
 
-
+{{-- 
 
 <div class="title-box text-center" >
     <h2 class="title">ماذا يقول عملاؤنا عنا</h2>
@@ -172,7 +172,7 @@
         </div>
     </div>
 </div>
-<div style=" height:30px"></div>
+<div style=" height:30px"></div> --}}
 
 
   
