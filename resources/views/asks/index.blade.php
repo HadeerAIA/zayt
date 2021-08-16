@@ -199,7 +199,7 @@
 
                       <div class="row">
                         <div class="col-sm-3">
-                          <h6 class="mb-0" style="font-size: 20px; color: #095f45; font-weight:500; float:right" > تاريخ العملية  </h6>
+                          <h6 class="mb-0" style="font-size: 18px; color: #095f45; font-weight:500; float:right" > تاريخ العملية  </h6>
                         </div>
                         <div class="col-sm-9 text-secondary" style="font-size: 20px; color: #095f45; font-weight:500">
                             {{ $ask->date }}
